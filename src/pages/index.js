@@ -41,6 +41,13 @@ const samplePageLinks = [
     description:
       "A simple example of linking to another page within a Gatsby site",
   },
+  {
+    text: "Page 3",
+    url: "page-3",
+    badge: false,
+    description:
+      "A simple example of linking to yet another page within a Gatsby site",
+  },
   { text: "TypeScript", url: "using-typescript" },
   { text: "Server Side Rendering", url: "using-ssr" },
   { text: "Deferred Static Generation", url: "using-dsg" },
