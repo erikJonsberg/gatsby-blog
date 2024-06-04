@@ -1,3 +1,11 @@
+# Gatsby Blog
+
+I started this project before I started working with Next.js. Once I went down that rabbit hole, I never looked back.
+
+I might circle back to this one, eventually.
+
+Below are the docs that shipped with the starter code I used:
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
